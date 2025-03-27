@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! I'm JapinanClarence</h2>
+<h2 align="left">hey there 👋</h2>
 
 ###
 
-<p align="left">I'm currently a 4th year BSIT student learning backend web-development.</p>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I’m currently a 4th year BSIT student<br><br>- 📚 I'm currently learning NodeJs, ExpressJs, and ReactJs<br>- ⚡ In my free time I play mobile games</p>
 
 ###
 
@@ -36,6 +40,10 @@
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JapinanClarence&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=JapinanClarence&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -44,7 +52,7 @@
 
 ###
 
-<h4 align="left">📫 How to Reach Me</h4>
+<h3 align="left">📫 How to Reach Me</h3>
 
 ###
 
