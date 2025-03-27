@@ -55,6 +55,6 @@
 ###
 
 <h3 align="left">📫 How to Reach Me</h3>
-<p align="left">- Email: japinanclarence@gmail.com<br>- Portfolio:  japinanclarence.vercel.app</p>
+<p align="left">- Email: <a>japinanclarence@gmail.com</a><br>- Portfolio:  <a href="japinanclarence.vercel.app">JapinanClarence</a></p>
 
 ###
