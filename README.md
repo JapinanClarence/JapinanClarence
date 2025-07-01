@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Passionate about backend web-development<br><br>- 📚 I'm currently learning NodeJs, ExpressJs, and ReactJs<br>- ⚡ In my free time I play mobile games</p>
+<p align="left">Passionate about backend web-development<br><br>- 📚 I'm currently learning NodeJs, ExpressJs, and ReactJs<br>- 🌐 I'm also interested in exploring Internet of Things (IoT) technologies/p>
 
 ###
 
