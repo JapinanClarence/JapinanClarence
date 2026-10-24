@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Passionate about web and mobile development<br><br>- 📚 I'm familiar with NodeJs, ExpressJs, ReactJs, Laravel, and ReactNative<br>- 🌐 I'm also interested in exploring Internet of Things (IoT) technologies </p>
+<p align="left">Passionate about web and mobile development<br><br>- 📚 I'm familiar with NodeJs, ExpressJs, ReactJs, NextJs Laravel, and ReactNative<br>- 🌐 I'm also interested in exploring Internet of Things (IoT) technologies </p>
 
 ###
 
